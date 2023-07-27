@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "name": "Bridget Cummings",
+      "id": 1
+    },
+    {
+      "name": "Pauline Dibbert",
+      "id": 2
+    },
+    {
+      "name": "Joyce Rice",
+      "id": 3
+    },
+    {
+      "name": "Melody Mosciski",
+      "id": 4
+    },
+    {
+      "name": "Clara O'Hara",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Refined Plastic Cheese",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "title": "Practical Bronze Sausages",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Rubber Salad",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Rubber Bacon",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Plastic Cheese",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Generic Soft Bike",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Awesome Concrete Towels",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/640/480?lock=5959203466248192",
+      "id": 12
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/640/480?lock=3134017301905408",
+      "id": 13
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480?lock=8558356121780224",
+      "id": 14
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480?lock=91869889429504",
+      "id": 15
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/640/480?lock=4445931080515584",
+      "id": 16
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=5090159672426496",
+      "id": 17
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=7529938703876096",
+      "id": 18
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=6569087069061120",
+      "id": 19
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/640/480?lock=7944919989616640",
+      "id": 20
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/640/480?lock=64978958680064",
+      "id": 21
+    }
+  ]
+}
